@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scrips/GunController.cs">
+    <Files>
+      <File FileName="Assets/Scrips/GunController.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scrips/CameraController.cs" Line="1" Column="1" />
+      <File FileName="../../Documents/Desktop/Survival-Shooter-Game-Tutorial/Assets/Scripts/Camera/CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scrips/PlayerController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
